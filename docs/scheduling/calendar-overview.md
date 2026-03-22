@@ -200,7 +200,7 @@ To schedule a group appointment:
 4. All other appointment details (time, service, location) work the same as individual appointments
 
 :::note
-To set up a therapy group, navigate to the client's profile and create a couples or family group from there. See the [Clients documentation](/clients) for more details.
+To set up a therapy group, navigate to the client's profile and create a couples or family group from there. See the [Couples & Family Therapy](/clients/couples-family) documentation for more details.
 :::
 
 ---
