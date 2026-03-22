@@ -94,7 +94,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          editUrl: 'https://github.com/ajwwong/progress/edit/main/progress2-base/docs-site/',
+          editUrl: 'https://github.com/ajwwong/practiceharbor-docs/edit/main/',
         },
         blog: false,
         theme: {
